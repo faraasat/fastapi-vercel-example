@@ -1,0 +1,4 @@
+# /requirements.txt
+
+fastapi==0.95.0
+# other required dependencies
